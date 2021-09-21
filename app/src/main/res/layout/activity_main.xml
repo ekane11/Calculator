@@ -61,7 +61,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:minHeight="48dp"
-        android:text="Enter Integer 1:"
+        android:hint="Enter Integer 1:"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
@@ -75,7 +75,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:minHeight="48dp"
-        android:text="Enter Integer 2:"
+        android:hint="Enter Integer 2:"
         app:layout_constraintEnd_toEndOf="@+id/intOne"
         app:layout_constraintTop_toBottomOf="@+id/intOne" />
 
